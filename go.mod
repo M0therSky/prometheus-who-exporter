@@ -1,4 +1,4 @@
-module github.com/M0therSky/who-exporter
+module github.com/M0therSky/prometheus-who-exporter
 
 go 1.22
 
